@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
-#import plotly.express as px
+import plotly.express as px
 
 #C:\Users\hayam\Downloads\
 logo=Image.open("American University of Beirut-AUB LOGO.png")
